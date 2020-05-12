@@ -1,0 +1,7 @@
+C:\Users\Noemi\Documents\entrevista\ui-test-names\nameTest\nameTest\bin\Debug\nameTest.dll
+C:\Users\Noemi\Documents\entrevista\ui-test-names\nameTest\nameTest\bin\Debug\nameTest.pdb
+C:\Users\Noemi\Documents\entrevista\ui-test-names\nameTest\nameTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Noemi\Documents\entrevista\ui-test-names\nameTest\nameTest\bin\Debug\WebDriver.dll
+C:\Users\Noemi\Documents\entrevista\ui-test-names\nameTest\nameTest\bin\Debug\WebDriver.xml
+C:\Users\Noemi\Documents\entrevista\ui-test-names\nameTest\nameTest\obj\Debug\nameTest.dll
+C:\Users\Noemi\Documents\entrevista\ui-test-names\nameTest\nameTest\obj\Debug\nameTest.pdb
